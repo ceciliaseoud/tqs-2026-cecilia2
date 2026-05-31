@@ -1,0 +1,7 @@
+
+# Exemplo:
+* @ceciliaseoud
+#
+# Em projetos maiores, você pode dividir por pasta:
+#   src/auth/   @time-de-seguranca
+#   docs/       @time-de-conteudo
